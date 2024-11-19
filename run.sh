@@ -30,4 +30,4 @@
 nvidia-smi
 # Load the cuda module
 module load cuda/12.4.1
-/zhome/eb/6/205174/Drev/.venv/bin/python /zhome/eb/6/205174/Drev/assignment_0.7drop.py
+/zhome/b4/8/186863/Deep-Learning/.venv/bin/python /zhome/b4/8/186863/Deep-Learning/common/utils.py
